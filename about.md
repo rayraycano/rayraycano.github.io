@@ -17,5 +17,8 @@ My contact info is below. Feel free to hit me up ^.^
 
 You can find the source code for my projects at: 
 {% include icon-github.html username="rayraycano" %} 
-(https://github.com/rayraycano)
+
+
+You can find my music at: {% include icon-soundcloud.html username="4_0" %}
+
 

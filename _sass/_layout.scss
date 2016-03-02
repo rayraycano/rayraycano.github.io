@@ -25,8 +25,8 @@
 }
 
 .site-subtitle {
-    font-size: 20px;
-    font-weight: 225;
+    font-size: 15px;
+    font-weight: 150px;
     line-height: 50px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -34,7 +34,7 @@
 
     &,
     &:visited {
-        color: $blue-color-dark;
+        color: $grey-color-dark;
     }
 }
 
@@ -114,6 +114,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background-color: lightgrey;
 }
 
 .footer-heading {
