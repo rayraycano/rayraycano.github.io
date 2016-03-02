@@ -1,10 +1,19 @@
 ---
 layout: page
-title: About
+title: About Ya Boi
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I'm Raymond Cheong Cano, a Computer Science major at Rice University. I'm 
+awed by the capabilities of machine learning and the elegance of efficient 
+algorithms. I prefer back end work to front end, but I have experience with 
+both. 
+
+As for my hobbies, love basketball, soccer and Music. In particular I'm a huge rockets fan and 
+a huge Hip Hop fan. I would really like to take on a data science project 
+with my favorite rappers. I'll figure that one out soon. 
+
+My contact info is below. Feel free to HMU. 
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /
