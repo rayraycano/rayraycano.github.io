@@ -16,6 +16,6 @@ with my favorite rappers. I'll figure that one out soon.
 My contact info is below. Feel free to hit me up ^.^ 
 
 You can find the source code for my projects at: 
-{% include icon-github.html username="rayraycano" %} /
-[jekyll-new](https://github.com/rayraycano)
+{% include icon-github.html username="rayraycano" %} 
+(https://github.com/rayraycano)
 
