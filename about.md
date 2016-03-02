@@ -13,12 +13,9 @@ As for my hobbies, love basketball, soccer and Music. In particular I'm a huge r
 a huge Hip Hop fan. I would really like to take on a data science project 
 with my favorite rappers. I'll figure that one out soon. 
 
-My contact info is below. Feel free to HMU. 
+My contact info is below. Feel free to hit me up ^.^ 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+You can find the source code for my projects at: 
+{% include icon-github.html username="rayraycano" %} /
+[jekyll-new](https://github.com/rayraycano)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
