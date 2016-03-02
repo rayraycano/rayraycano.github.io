@@ -24,6 +24,20 @@
     }
 }
 
+.site-subtitle {
+    font-size: 20px;
+    font-weight: 225;
+    line-height: 50px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float:left;
+
+    &,
+    &:visited {
+        color: $blue-color-dark;
+    }
+}
+
 .site-nav {
     float: right;
     line-height: 56px;
