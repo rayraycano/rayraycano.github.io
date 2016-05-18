@@ -18,29 +18,33 @@ We then waited a bit too long to get started on the CNN attempt for our image cl
 
 However, here goes the synopsis of my journey with Cifar-10
 
-1. We got wind that TensorFlow, an amazing Google ML Library had a tutorial that achieed 86% accuracy on test data.
-2. We hear that GPUs greatly speed up ML code if the code has been optimized
+1. We got wind that TensorFlow, a Google ML Library had a tutorial that achieved 86% accuracy on test data.
+2. We heard that [GPUs greatly speed up ML code][GPUs] if the code has been optimized
 3. We realize that neither of our laptops are gonna get the job done
 4. I start focusing on using Amazon EC2 for our development, as they have GPU and multicore CPU instance Linux images
 5. Struggle mightily with instillations
 6. Give up on using the most updated instillations
 7. Run TensorFlow, which then prints for us the accuracy it got using it's test data
 8. Try and figure out wtf TensorFlow does and how it works
-9. Cry
+9. Cry.gif
 10. Finally understand how TensorFlow works, get it to run properly.
 11. Start experimenting running tests all day and all night and all day and all night and all day and all night and all day and all night
 12. Writereportmakeposterrunfinalexperiments (this is what this part felt like. It was like a week of ONLY comp540. Eat breath sleep 540.)
 
-This whole process was just 2 weeks of constantly plugging away at code and feeling so incompetent, then triumphant, then incompetent, then triumphant, then moderately satisfied at the end. The focus of the rest of the blog will b on steps 5), 10), and 11). There will be some great links for anyone else who wants to try this, so keep an eye out ^.^
+This whole process was just 2 weeks of constantly plugging away at code and feeling so incompetent, then triumphant, then incompetent, then triumphant, then moderately satisfied at the end. The focus of the rest of the blog will b on steps 5, 10, and 11. There will be some great links for anyone else who wants to try this, so keep an eye out ^.^
 
 Tensorflow, Amazon Images, and Instillation Nightmares
 ------------------------------------------------------
 
-[Tensorflow][Tensorflow] is a robust machine learning library in Python (my go to language) that was recently bought by google. Tensorflow is relatively new, which meant I was on the bleeding edge of technology !!! However, this meant that things that were supposed to be reliable were actually buggy. The download source at one point had a typo in it. The program seg faulted when I attempted to imported sklearn along with tensorflow. 
+[Tensorflow][Tensorflow] is a robust machine learning library in Python (my go to language) that was recently bought by google. Tensorflow is relatively new, which meant I was on the *bleeding edge* of technology!!!11!1 However, this meant that things that were supposed to be reliable were actually buggy: 
 
-A couple of versions of tensorflow were out there to use, the newest being 0.8, which the Cifar10 tutorial was written in. So naturally I wanted to use that one. Once I got the hang of using an EC2 image, which was moderately straightforward, I jumped into pip installing TF .8 onto a micro T2 instance, which is basically just a low power computer. It seemed to run to just fine. Woo! We're rolling. 
++ The source URL at one point had a typo in it. 
++ The program seg faulted when I attempted to imported sklearn along with tensorflow.
++ There were functions that in the library that didn't appear in the docs (wtf??).
 
-Now, I wanted to optimize for GPU. Uh oh. Turned out, the Amazon GPU instances came with CUDA 6.5 preloaded. TF needed CUDA 7.0. So on I went attempting to update the CUDA and cuDNN drivers. After a day of failing to successfully install, I decided to surf the interwebs for other options (Note, I was able to successfully instill at a later time, however, that was a bit later in the game and it took a bit of time to do all the instillations). I started looking through message boards that had the same issues I was having and found [this][mess-board] message board with everything needed for TF 0.7, running with Python3. Praise the lord for the person who made this [public ami][public-ami]. 
+A couple of versions of tensorflow were out there to use, the newest being 0.8, which the Cifar10 tutorial was written in. So naturally I wanted to use that one. Once I got the hang of using an EC2 image, which was moderately straightforward, I jumped into pip installing TF .8 onto a micro T2 instance, which is basically just a low power computer that Amazon gives out 750 free hours for when you sign up. It seemed to run to just fine. Woo! We're rolling. 
+
+Now, I wanted to run the GPU optimized code. Uh oh. Turned out, the Amazon GPU instances came with CUDA 6.5 preloaded. TF needed CUDA 7.0. So on I went attempting to update the CUDA and cuDNN drivers. After a day of failing to successfully install, I decided to surf the interwebs for other options (Note, I was able to successfully instill at a later time, however, that was a bit later in the game and it took a bit of time to do all the instillations). I started looking through message boards that had the same issues I was having and found [this][mess-board] message board with everything needed for TF 0.7, running with Python3. Praise the lord for the person who made this [public ami][public-ami]. 
 
 This made things easy, though I did lose a bit of functionality by using 0.7 instead of 0.8 (most notably the summary writer and a new batch normalization routine). Regardless I was finally able to run the tensorflow exmample. 
 
@@ -90,6 +94,7 @@ Proper Preparation Prevents Poor Performance *Especially* with CNNs.
 [Softmax]: http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/
 [SVM]: https://en.wikipedia.org/wiki/Support_vector_machine
 [HOG]: https://en.wikipedia.org/wiki/Histogram_of_oriented_gradients
+[GPUs]:http://www.nvidia.com/content/events/geoInt2015/LBrown_DL.pdf
 [better-than-human]: http://blog.kaggle.com/2015/01/02/cifar-10-competition-winners-interviews-with-dr-ben-graham-phil-culliton-zygmunt-zajac/
 [Tensorflow]: https://www.tensorflow.org/
 [mess-board]: http://ramhiser.com/2016/01/05/installing-tensorflow-on-an-aws-ec2-instance-with-gpu-support/
