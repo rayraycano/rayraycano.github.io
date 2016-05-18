@@ -76,7 +76,9 @@ Huge mistake. These parameters are vital to the convergence of the model and fai
 
 Our next attempt was with the [VGG net][VGG]. This time I attempted to mimic it more closely, however, again, the failure to exactly mimic the paper specifications prevented our model from even fitting the training data accurately, giving us a training loss that was 8 times higher than our tutorial after 50k steps. 
 
-Admittedly, I was rushing through these experiments. Haphazardly I'd put together architectures and run them willy-nilly, careless about the vital particulars that largely affect the end results. As I ran through these tests, my sense of unease, of bewilderment, and ignorance grew. Were these runs going to succeed? Were they not? Why? I had no intution towards any of things. I had not thoroughly read through the papers to understand what made the architecture and specific parameters so important. How was I going to even make improvements. There was no intution. 
+Admittedly, I was rushing through these experiments. Haphazardly I'd put together architectures and run them willy-nilly, careless about the vital particulars that largely affect the end results. The competition aspect was getting to me. Typically, academic assignments aren't competitions, but this felt like a dogfight. Our good buddies Krishna Thiagarajan and Ethan Perez were neck and neck with us, and Ethan was endlessly testing and iterating on his code just as I was. These guys were going all they way and rather than meddle with the troublesome Amazon EC2 instance, used the opportunity as a reason/excuse/motive to *build their own computer* with [extra dank GPUs][extra-dank]. 
+
+As I ran through these tests, compelled by a desire to win, my feelings of unease, bewilderment, and ignorance grew. Were these runs going to succeed? Were they not? Why? I had no intution towards any of things. I had not thoroughly read through the papers to understand what made the architecture and specific parameters so important. How was I going to even make improvements. There was no intution.
 
 It was at this point I realized I had done everything wrong. This wasn't the proper way to approach this project. This was lazy. No preparation was put in. Poor performance was put out. There's a strong sense of disappointment in myself. I had done the job halfway and not stopped to clearly understand the task in front of me. This became palpable when writing the report. There were so many number to explain, graphs we just didn't care to have, and intutions we couldn't explain because our preparation severly lacked. 
 
@@ -101,6 +103,7 @@ Proper Preparation Prevents Poor Performance *Especially* with CNNs.
 [public-ami]: https://gist.github.com/AlexJoz/1670baf0b32573ca7923 
 [DDF]: https://wiki.rice.edu/confluence/download/attachments/4435861/comp322-s16-lec14-slides-v1.key.pdf?version=1&modificationDate=1455562128535&api=v2
 [pickle]: https://docs.python.org/2/library/pickle.html
+[extr-dank]:http://www.newegg.com/Product/Product.aspx?Item=N82E16814487157
 [toronto]: https://www.cs.toronto.edu/~kriz/cifar.html
 [leaky-ReLUS]: http://cs231n.github.io/neural-networks-1/
 [Kaggle-Competition]: http://blog.kaggle.com/2015/01/02/cifar-10-competition-winners-interviews-with-dr-ben-graham-phil-culliton-zygmunt-zajac/
