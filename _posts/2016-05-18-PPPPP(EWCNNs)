@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Cifar 10 Competition"
+date:   2016-05-18 1:50:51 -0600
+categories: data science
+---
+There's a common saying called the 5 Ps: 
+
+Proper Preparation Prevents Poor Performance
+
+I've heard it most with sports and academic testing. Given that those two aren't typically neighbors in who or what we associate with them, I find the phrase quite robust and applicable to most of life's challenges. 
+
+Anyways, for our term project in our Machine Learning class at Rice, we were tasked with taking on the CIFAR10 dataset and training a model to predict on the CIFAR10 test set. We were given the whole term to figure things and make progress, however, we didn't get to the juicy convolutional neural nets until last month and a half in class, and even then, we brushed over them in a brevity that left everything needed for the term project to be learned outside of the class. 
+
+This is where our journey began. I was partners with Xilin Liu, a very accomplished senior with the most rigorously organized code I've every seen or contributed to (shouts out to the homie X). After stepping through some [Softmax][Softmax] and [SVM models][SVM], and playing with [Histogram of Gradients][HOG] pre processing, we were at 55% accuracy model, which at the time, was decent enough for top 25% in the class standings. 
+
+We then waited a bit too long to get started on the CNN attempt for our image classification. The basic idea of a convolutional neural net is to look at a sliding window of the image, much like a Histogram of Gradients does, except that it will end up learning a different filter for each window, basically meaning that it can learn the importance of the window, and also how to transform it to extract the necessary features there. Moving our image through these convolutional layers as well as max pooling layers, which take a sliding window and simply sets all pixels in the window to the max, and normalizing layers, which basically recenters the convoluted mean and variance of our image, helps get us to an image that we can more accurately classify, with performace reaching higher than [human capability][better than human]. 
+
+However, here goes the synopsis of my journey with Cifar-10
+
+1) We got wind that TensorFlow, an amazing Google ML Library had a tutorial that achieed 86% accuracy on test data.
+
+2) We hear that GPUs greatly speed up ML code if the code has been optimized
+
+3) We realize that neither of our laptops are gonna get the job done
+
+4) I start focusing on using Amazon EC2 for our development, as they have GPU and multicore CPU instance Linux images
+
+5) Struggle mightily with instillations
+
+6) Give up on using the most updated instillations
+
+7) Run TensorFlow, which then prints for us the accuracy it got using it's test data
+
+8) Try and figure out wtf TensorFlow does and how it works
+
+9) Cry
+
+10) Finally understand how TensorFlow works, get it to run properly.
+
+11) Start experimenting running tests all day and all night and all day and all night and all day and all night and all day and all night
+
+12) Writereportmakeposterrunfinalexperiments (this is what this part felt like. It was like a week of ONLY comp540. Eat breath sleep 540.)
+
+This whole process was just 2 weeks of constantly plugging away at code and feeling so incompetent, then triumphant, then incompetent, then triumphant, then moderately satisfied at the end. The focus of the rest of the blog will b on steps 5), 10), and 11). There will be some great links for anyone else who wants to try this, so keep an eye out ^.^
+
+Tensorflow, Amazon Images, and Instillation Nightmares
+
