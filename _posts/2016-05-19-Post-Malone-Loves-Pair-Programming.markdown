@@ -66,7 +66,7 @@ Verse 2 begins much the same as Verse 1, with Malone indulging in his riches. Th
 
 Malone then jumps back a bit, understanding that taking on a physical relationship, much like a partner project, requires a lot. *"Don't be shy girl it's okay [to commit]"* he says. He understands that many times people will be scared to commit, as they don't want to cause any merge conflicts because those suck.
 
-Malone follows this with a *"How much did you pay, pay, pay?/I'm a let you in my chain"*, opening up casual discussion on the price of Git when used for a corporate purposes (Github has been known to charge [exorbiant amounts][github] for it's services) while also inviting her to merge into his chain of commits.
+Malone follows this with a *"How much did you pay, pay, pay?/I'm a let you in my chain"*, opening up casual discussion on the price of Git when used for a corporate purposes (Github has been known to charge [exorbitant amounts][github] for it's services) while also inviting her to merge into his chain of commits.
 
 **Conclusion**
 --------------
