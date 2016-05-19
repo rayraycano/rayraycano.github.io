@@ -32,8 +32,8 @@ However, here goes the synopsis of my journey with Cifar-10
 2. We heard that [GPUs greatly speed up ML code][GPUs] if the code has been optimized
 3. We realize that neither of our laptops are gonna get the job done
 4. I start focusing on using Amazon EC2 for our development, as they have GPU and multicore CPU instance Linux images
-5. Struggle mightily with instillations
-6. Give up on using the most updated instillations
+5. Struggle mightily with installations
+6. Give up on using the most updated installations
 7. Run TensorFlow, which then prints for us the accuracy it got using it's test data
 8. Try and figure out wtf TensorFlow does and how it works
 9. Cry.gif
@@ -43,7 +43,7 @@ However, here goes the synopsis of my journey with Cifar-10
 
 This whole process was just 2 weeks of constantly plugging away at code and feeling so incompetent, then triumphant, then incompetent, then triumphant, then moderately satisfied at the end. The focus of the rest of the blog will b on steps 5, 10, and 11. There will be some great links for anyone else who wants to try this, so keep an eye out ^.^
 
-Tensorflow, Amazon Images, and Instillation Nightmares
+Tensorflow, Amazon Images, and installation Nightmares
 ------------------------------------------------------
 
 [Tensorflow][Tensorflow] is a robust machine learning library in Python (my go to language) that was recently bought by google. Tensorflow is relatively new, which meant I was on the *bleeding edge* of technology!!!11!1 However, this meant that things that were supposed to be reliable were actually buggy: 
@@ -54,7 +54,7 @@ Tensorflow, Amazon Images, and Instillation Nightmares
 
 A couple of versions of tensorflow were out there to use, the newest being 0.8, which the Cifar10 tutorial was written in. So naturally I wanted to use that one. Once I got the hang of using an EC2 image, which was moderately straightforward, I jumped into pip installing TF .8 onto a micro T2 instance, which is basically just a low power computer that Amazon gives out 750 free hours for when you sign up. It seemed to run to just fine. Woo! We're rolling. 
 
-Now, I wanted to run the GPU optimized code. Uh oh. Turned out, the Amazon GPU instances came with CUDA 6.5 preloaded. TF needed CUDA 7.0. So on I went attempting to update the CUDA and cuDNN drivers. After a day of failing to successfully install, I decided to surf the interwebs for other options (Note, I was able to successfully instill at a later time, however, that was a bit later in the game and it took a bit of time to do all the instillations). I started looking through message boards that had the same issues I was having and found [this][mess-board] message board with everything needed for TF 0.7, running with Python3. Praise the lord for the person who made this [public ami][public-ami]. 
+Now, I wanted to run the GPU optimized code. Uh oh. Turned out, the Amazon GPU instances came with CUDA 6.5 preloaded. TF needed CUDA 7.0. So on I went attempting to update the CUDA and cuDNN drivers. After a day of failing to successfully install, I decided to surf the interwebs for other options (Note, I was able to successfully install at a later time, however, that was a bit later in the game and it took a bit of time to do all the installations). I started looking through message boards that had the same issues I was having and found [this][mess-board] message board with everything needed for TF 0.7, running with Python3. Praise the lord for the person who made this [public ami][public-ami]. 
 
 This made things easy, though I did lose a bit of functionality by using 0.7 instead of 0.8 (most notably the summary writer and a new batch normalization routine). Regardless I was finally able to run the tensorflow exmample. 
 
