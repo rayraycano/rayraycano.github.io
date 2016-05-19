@@ -24,7 +24,7 @@ The most pressing idea presented in this song is the budding romance between Mal
 
 In the song, Malone specifically acknowledges **Git** as his preference of version control, evident in the title. Notice how the title plays on the word *get* through it's spelling. Understand also that Malone is emphatically stating the superiority of Git, as the song is not titled "SVN Wit U" or anything else. So, *why Git?* The answer lies at the intersection of Malone's romantic desires and Git's implementation of version control. Git is a *distributed* version control system, meaning that "there isn't one centralized code base to pull from", allowing users to branch on their separate path. Malone understands he's simply infatuated and realistically expects himself and the POI to branch off and do their own thing, with neither person holding any dominant position after things are done.
 
-The romantic power of pair programming is underscored by the fact that Malone is well known as the **ugliest raper in the game**:
+The romantic power of pair programming is underscored by the fact that Malone is well known as the **ugliest rapper in the game**:
 
 ![ugliest rapper in the game][ugly-rapper]. 
 
