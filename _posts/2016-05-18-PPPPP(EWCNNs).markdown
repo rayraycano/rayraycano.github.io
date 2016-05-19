@@ -2,7 +2,9 @@
 layout: post
 title:  "The 5P's and CNNs"
 date:   2016-05-18 1:50:51 -0600
-categories: DataScience, Tech
+categories: 
+- Data Science 
+- Tech
 ---
 
 tl;wr
