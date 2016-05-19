@@ -1,9 +1,17 @@
 ---
 layout: post
-title:  "PPPPP(EWCNNs)"
+title:  "The 5P's and CNNs"
 date:   2016-05-18 1:50:51 -0600
-categories: data science
+categories: DataScience, Tech
 ---
+
+tl;wr
+-----
+The last 2 weeks of my semester was consumed by the CIFAR-10 image recognition project. The project helped me learn how to use Amazon's EC2 instances and the inner workings of TensorFlow. However the competitive nature of the assignment, one in which we were pitted against our classmates to score the highest recognition accuracy prompted my partner and I to do first and understand second. The idea of Proper Preparation Prevents Poor Performacne was *especially* true with Convolutional Neural Nets. After haphazardly implementing many architectures, I realized the importance of understanding the nature of the assignment and taking new things slow. The machine learning field is on the forefront of new tech right now and there's so much to learn. Don't rush through it. Asking questions is the fun part. 
+
+Proper Preparation Prevents Poor Performace Especially with CNNs
+----------------------------------------------------------------
+
 There's a common saying called the 5 Ps: 
 
 Proper Preparation Prevents Poor Performance
