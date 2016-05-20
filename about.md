@@ -19,6 +19,5 @@ You can find the source code for my projects at:
 {% include icon-github.html username="rayraycano" %} 
 
 
-You can find my music at: {% include icon-soundcloud.html username="4_0" %}
 
 
