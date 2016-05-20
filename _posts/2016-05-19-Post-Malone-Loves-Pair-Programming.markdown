@@ -4,7 +4,6 @@ title:  "Post Malone Loves Pair Programming"
 date:   2016-05-19 0:00:00 -0600
 categories: 
 - Hip-Hop
-- And
 - Tech
 ---
 
