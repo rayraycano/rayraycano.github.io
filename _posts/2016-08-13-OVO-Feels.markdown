@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "OVO Feels: Drake, DVSN, Masjid, Weeknd, and Party"
-date: 2016-08-13 0:00:00 -0600
-categories:
-- Hip-Hop
+    layout: post
+    title: "OVO Feels: Drake, DVSN, Masjid, Weeknd, and Party"
+    date: 2016-08-13 0:00:00 -0600
+    categories:
+    - Hip-Hop
 ---
 Articulating the Feels of my Favorite OVO Artists
 --------------------

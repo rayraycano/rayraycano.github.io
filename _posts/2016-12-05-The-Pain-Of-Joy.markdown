@@ -11,20 +11,24 @@ Why PND's Joy is my Favorite Track of 2016
 
 PARTYNEXTDOOR's P3, for the most part, can be reduced to a complete biography of the modern playboy. It revels in a darkness propelled by machismo not dissimilar from his previous work. His detached intimacy pairs exceptionally with the devious sounds prevalent throughout the album. However, in the heat of the overwhelming objectification, unconquerable ego, and emotionless affection, _Joy_ exposes the humanity and vulnerability that PND so convincingly conceals throughout his discography. 
 
+<img src=http://hiphopdx-production.s3.amazonaws.com/2016/07/PARTYNEXTDOOR-P3-album-cover.jpg width=200px height=200px align=right>
+
 **The Set Up**
 
 *P3* feels like an extended cut of a life & times of a serial playboy. With the exception of *Joy* and *You've Been Missed*, Party swaggers through decalrations of his sexual prowess, taunts the male competition (Kyrie coolin tho), and all but reduces women to a means through which he ego trips.
 
 
-| Track       | The Short  |
-|--------------------------|---|---|---|---|
-| *Spiteful*               | Don't be mad becuase I moved on  | 
+|                  Track   |     The Short |
+|--------------------------|---------------|
+| *Spiteful*               | Don't be mad becuase I moved on | 
 | *High Hopes*             | When I come back for you, u better be dtf |
 | *Nothing Easy to Please* | Duh, you should have known you weren't good enough for me  |
-| *Transparency*| Tell me I'm hot shit, even though I know it already|
-| *Problems & Selfless* | 1) I hope my son has women fighting over him and 2) I'm the victim: these girls are too selfish and won't share me.|
-| *Come See Me*| I booty called this girl but she's mad because I don't ever go to her place |
+| *Transparency*           | Tell me I'm hot shit, even though I know it already|
+| *Problems & Selfless*    | 1) I hope my son has women fighting over him and 2) I'm the victim: these girls are too selfish and won't share me.|
+| *Come See Me*            | I booty called this girl but she's mad because I don't ever go to her place |
 
+
+<center>Table 1: Song Summations from *P3*</center>
 
 The last of those is never more clear than in *Transparency*, a disjoint command for affirmation in which he asks his girl to tell hi what he already knows, asking her to "not fake it". He's not so much as searching for validation as he is demanding it. In *Spiteful* he tells his ex-lover not to be spiteful simply because he found another girl. Besides, you got yourself a new dude so your shit's not even adding up. 
 
