@@ -33,8 +33,8 @@ that avoids catastrophic forgetting_
 ### Background ###
 
 Paz and Ranzato's continuum learning targets a more general problem of 
-_catastrophic forgetting_, which in short can be defined as "the poor ability of models to
-quickly solve new problems, without forgetting previously acquired knowledge." (Paz et. al.)
+_catastrophic forgetting_, which the authors describe as "the poor ability of models to
+quickly solve new problems, without forgetting previously acquired knowledge."
 Recently this has been a hot topic in AI recently, as a flurry of 
 papers in early summer were released discussing this topic ([Elastic Weight Consolidation][EWC],
 [PathNet][PathNet], [iCaRL][iCARL], [Sluice Network][Sluice Network], [Intelligent Synapses][Intelligent Synapses]).
