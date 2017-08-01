@@ -27,7 +27,7 @@ mathematics of these papers._
 * __Organizaitons__: Facebook AI Research (FAIR)
 * __Topic__: Coninuum Learning
 * __In One Senetence__: _Paz and Ranzato define sorely needed metrics to the
-subfield of Continuum Learning while developing a gradient-inspired update rule 
+subfield of Continual Learning while developing a gradient-inspired update rule 
 that avoids catastrophic forgetting_
 
 ### Background ###
