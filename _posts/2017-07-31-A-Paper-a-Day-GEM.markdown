@@ -61,7 +61,7 @@ They're displayed below. The notation is a bit confusing, so I've done my
   
 <div style="text-align:center">
     <img src="https://www.dropbox.com/s/qrj6sxkfruj42uk/Screen%20Shot%202017-07-31%20at%204.56.05%20PM.png?dl=1">
-    <p style="font-size:10px"> T is the total number of tasks, enumerated from 1 to T. The bi vector is the random
+    <p style="font-size:13px"> T is the total number of tasks, enumerated from 1 to T. The bi vector is the random
     initialization for each task. I've omitted accuracy from this discussion because it seem too novel in the context
     of this paper.</p>
 </div>
@@ -127,7 +127,7 @@ previous task.
 
 <div style="text-align:center">
     <img src="https://www.dropbox.com/s/jye3b3mco5fs277/Screen%20Shot%202017-07-31%20at%204.55.52%20PM.png?dl=1">
-    <p style="font-size:10px"> g is the gradient for the current task, while gk is the gradient for each previous task, calculated
+    <p style="font-size:13px"> g is the gradient for the current task, while gk is the gradient for each previous task, calculated
     over the episodes in memory (Mk). The big < > notation is a dot product operator </p>
 </div>
 
@@ -143,7 +143,7 @@ on to a cone).
  
 <div style="text-align:center">
     <img src="https://www.dropbox.com/s/jkdkk8bmz6btl77/Screen%20Shot%202017-07-31%20at%207.36.14%20PM.png?dl=1">
-    <p style="font-size:10px"> Above shows the graphical representation of the gradient update conditions, with the blue
+    <p style="font-size:13px"> Above shows the graphical representation of the gradient update conditions, with the blue
     line being the update for the first task, while the red line is the gradient update for the current task. The right side
     shows an approximation of the optimized projection for the gradient when the dot product is negative.</p>
 </div>
