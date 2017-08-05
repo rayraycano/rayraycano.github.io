@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Paper A Day: Gradient Episodic Memory for Conintuum Learning"
+title: "A Paper A Day: Gradient Episodic Memory for Continuum Learning"
 date: 2017-07-31 0:17:00 -0600
 categories:
 - Data Science
@@ -25,7 +25,7 @@ mathematics of these papers._
 * __Paper__: [Gradient Episodic Memory for Continuum Learning][GED]
 * __Authors__: David Lopez-Paz, Marc'Aurelio Ranzato 
 * __Organizaitons__: Facebook AI Research (FAIR)
-* __Topic__: Coninuum Learning
+* __Topic__: Continuum Learning
 * __In One Senetence__: _Paz and Ranzato define sorely needed metrics to the
 subfield of Continual Learning while developing a gradient-inspired update rule 
 that avoids catastrophic forgetting_
