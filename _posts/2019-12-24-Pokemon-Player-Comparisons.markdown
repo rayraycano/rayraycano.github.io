@@ -48,8 +48,8 @@ Elite quickness. Media starwalt (whether deserving or not). Defensive liability.
     <p>Steph Curry's Poke-stats</p>
 </div>
 
-The evidence is there.  Pikachu's high special attack
-pairs well with Curry's deadly long ball. While "Thunder" has comparably low accuracy, it's high power and variance match up well with Curry's
+The evidence is there.  Pikachu's façade of a high special attack
+pairs well with Curry's deadly long ball (which he shoots at a good-not-great percentage). While "Thunder" has an annoyingly low accuracy, it's high power and variance match up well with Curry's
 preferred mode of attack. Once you consider Pikachu's rather arbitrary stardom in the Pokemon franchise paired with it's overall lackluster statistical profile,
 the comparison takes on a parallel to Steph's undeserved 2014-2015 MVP season and illogically unananimous 15-16 MVP. Simply put, the narrative sensationalizes
 a less-than sensational game play (how does Pikachu defeat Brock's Onyx with Electric type attacks that shit will never make sense me).
