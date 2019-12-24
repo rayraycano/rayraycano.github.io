@@ -14,7 +14,7 @@ This document is intended primarily as a tool for me to explicitly plan and deci
 
 # A Reflection on 2017
 
-2017 was marked by a couple things, but I will most remember it for indulgence. Events like graduation, getting hired, and getting paid really enabled me to spend and live opulently. 
+2017 was marked by a couple things, but I will most remember it for indulgence. Events like graduation, getting hired, and getting paid really enabled me to spend and live opulently.
 
 
 As 2017 came to a close, I found myself wanting to ***be more***, and to ***do more***. I was comfortable with where I was, but uncomfortable with how I was growing. I realized that from September - December, once I had started work, I failed to meaningfully ***commit to*** or ***invest in*** **any of my other meaningful passions. In retrospect, this stemmed from two things**
@@ -25,7 +25,7 @@ As 2017 came to a close, I found myself wanting to ***be more***, and to ***do m
 
 ### The Work Abyss
 
-When working on Salary, an hour (and more generally, time) becomes an abstract unit of measurement. Spending 7 hours vs. 12 hours at work becomes somewhat less important, as long as the work you’re expected to complete is completed. At Plaid we set our own goals are expected to meet our own goals. It took a bit of time for me to learn what was ***feasible***…then a bit more time to learn what was ***reasonable***…and then even more time to learn what was ***sustainable***. In doing so, I found myself losing hours and nights to the work abyss — sometimes necessary, sometimes unnecessary. 
+When working on Salary, an hour (and more generally, time) becomes an abstract unit of measurement. Spending 7 hours vs. 12 hours at work becomes somewhat less important, as long as the work you’re expected to complete is completed. At Plaid we set our own goals are expected to meet our own goals. It took a bit of time for me to learn what was ***feasible***…then a bit more time to learn what was ***reasonable***…and then even more time to learn what was ***sustainable***. In doing so, I found myself losing hours and nights to the work abyss — sometimes necessary, sometimes unnecessary.
 
 
 ### Relaxation Time
@@ -52,7 +52,7 @@ The surgery set me back quite a bit. I was inactive for nearly 12 months, and ha
 
 ### Emotional Discipline
 
-Since high-school, I have developed a habit of being reliant on validation from women to be in a positive emotional state. This leads to a toxic pattern, especially since the emotional dependencies develop into sexual ones. 
+Since high-school, I have developed a habit of being reliant on validation from women to be in a positive emotional state. This leads to a toxic pattern, especially since the emotional dependencies develop into sexual ones.
 
 Recently, I have been extremely unsatisfied with solitude and wasted much time and effort seeking people to be around. Rather than viewing this as a personal need, I want to approach this as an opportunity to grow my comfort with solitude and use the time to personally develop
 
@@ -78,7 +78,7 @@ This is a big one. After graduating from school, I went ahead and interned in a 
 
 ### Creative Discipline
 
-I made a decent amount of music in 2017. However, few efforts produced polished work. Polished work tended to be something I avoided. The objective here is to make a concerned effort to improve *how and what* I create, rather than *only* creating for the sake of it (which definitely has it’s place). The goal is to find a balance. 
+I made a decent amount of music in 2017. However, few efforts produced polished work. Polished work tended to be something I avoided. The objective here is to make a concerned effort to improve *how and what* I create, rather than *only* creating for the sake of it (which definitely has it’s place). The goal is to find a balance.
 
 **Deliverables**
 
@@ -89,7 +89,7 @@ I made a decent amount of music in 2017. However, few efforts produced polished 
 
 ### Financial and Legal Discipline
 
-I tend to let things like this slide and fall to the wayside (they were a bit of an afterthought even when constructing this document). As I grow older, this will become a terrible habit and lead to some super yikes moments. Parking tickets, Taxes, etc. 
+I tend to let things like this slide and fall to the wayside (they were a bit of an afterthought even when constructing this document). As I grow older, this will become a terrible habit and lead to some super yikes moments. Parking tickets, Taxes, etc.
 
 **Deliverables**
 
@@ -99,7 +99,7 @@ I tend to let things like this slide and fall to the wayside (they were a bit of
 
 ### Consumption Discipline
 
-Over the past few years I’ve come to spend money a lot more loosely. Spending money is a way to save time and effort, but what’s lost is a personal discipline to maintain and improve the things you already own. I’ve gotten to a point where I’ve invested a lot in personal belongings — it’s time to make the most of them, even if they’re currently in a subpar state. 
+Over the past few years I’ve come to spend money a lot more loosely. Spending money is a way to save time and effort, but what’s lost is a personal discipline to maintain and improve the things you already own. I’ve gotten to a point where I’ve invested a lot in personal belongings — it’s time to make the most of them, even if they’re currently in a subpar state.
 
 **Deliverables**
 
