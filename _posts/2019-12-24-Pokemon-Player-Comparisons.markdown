@@ -3,7 +3,7 @@ layout: post
 title: "Pokemon/Player Comparisons"
 date: 2019-12-24 0:1:00 -0600
 categories:
-- General
+- Sports
 ---
 
 # Pokemon Player Comps
