@@ -23,6 +23,8 @@ We can extend this comparison to Lebron's weaknesses too. From a type-oriented p
 ## James Harden is Miltank
 Harden is a tank. More specifically, he's a Miltank. Anyone who played G/S/C remembers Whitney's Miltank remembers showing up with their Quilava and getting absolutely bodied by what felt like the cheapest move ever: Rollout. There isn't a better parallel for Harden's unstoppable drives to the basket than Miltank's super-effective rollout [THAT DOUBLES IN DAMAGE WITH EACH CONSECUTIVE HIT](https://bulbapedia.bulbagarden.net/wiki/Rollout_(move)#Effect). In additiona to the frustration faced when playing against Miltank or Harden, their bulky but agile ([100 speed is not too shabby](https://bulbapedia.bulbagarden.net/wiki/Miltank_(Pok%C3%A9mon)#Base_stats)) builds pair well together. As a cynical Rockets fan, I will also point out that Miltank isn't in anyone's championship party.
 
+{% include youtubeMiltank.html id=page.youtubeId %}
+
 ## Kawai Leonard is Deoxys
 [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Deoxys_(Pok%C3%A9mon)#Biology) describes Doexys as an "alien-like bipedal Pokémon" with multiple "formes" with the ability to mutate it's body to have "humanoid arms with a red top and blue underside and a five-fingered hand". This is actually just Kawhi Leonard (the red and blue make a timely pairing for his current stint on the Clips). The Deoxys comparison hits home when you consider that Deoxys exists in Attack and Defense form, which are each gifted elite Attack and Defense stats relatively. Kawhi is 95th percentile on both sides of the floor, and while Pokemon requires you to take a Deoxys to one a handful of cities to change form, Kawhi only requires a change of possession.
 
