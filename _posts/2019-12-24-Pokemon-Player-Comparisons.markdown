@@ -8,8 +8,7 @@ categories:
 
 # Pokemon Player Comps
 Player comps are fun. The imagination, creativity, and cultural overlaps they create typically make for good fodder and barguments.
-So many of us grew up watching and playing hoops, and sometimes even with a gameboy/emulator in front us for the commercial breaks/third quarter lulls
-in action. So yeah, Pokemon Player Comps.
+If you're reading this, chances are you grew up watching hoops, and sometimes even with a gameboy/emulator in front you for the commercial breaks/third quarter lulls in action. So yeah, Pokemon Player Comps.
 
 Features: Lebron James, James Harden, Kawai Leonard, Steph Curry
 Quick Hitters: Kyrie, KD, Klay, James Harden again, Trae Young, Ben Simmons
