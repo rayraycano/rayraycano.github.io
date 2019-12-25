@@ -10,9 +10,9 @@ categories:
 Player comps are fun. The imagination, creativity, and cultural overlaps they create typically make for good fodder and barguments.
 If you're reading this, chances are you grew up watching hoops, and sometimes even with a gameboy/emulator in front you for the commercial breaks/third quarter lulls in action. So yeah, Pokemon Player Comps.
 
-Features: [Lebron James](#Lebron-James-is-Dragonite), [James Harden](#James-Harden-is-Miltank), [Kawai Leonard](#Kawai-Leonard-is-Deoxys), [Steph Curry](#Steph-Curry-is-Pikachu)
+Features: [Lebron James](#lebron-james-is-dragonite), [James Harden](#james-harden-is-miltank), [Kawai Leonard](#kawai-leonard-is-deoxys), [Steph Curry](#steph-curry-is-pikachu)
 
-[Quick Hitters](#Quick-Hitters): Kyrie, KD, Klay, James Harden again, Trae Young, Ben Simmons
+[Quick Hitters](#quick-hitters): Kyrie, KD, Klay, James Harden again, Trae Young, Ben Simmons
 
 Note: I stopped following the gameplay around Gen 5, so don't expect any Mega-related analysis. If we were to do that, I guess we'd have to designate Mega as "Playoff-\<name>" - maybe for a future time?
 
