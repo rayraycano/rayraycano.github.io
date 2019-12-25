@@ -21,6 +21,7 @@ Dragonite is the OG OP character. That is exactly what Lebron is. Before you tel
 
 <div style="text-align:center">
     <img src="https://www.dropbox.com/s/5q599t4zlsqoj2q/Screen%20Shot%202019-12-24%20at%204.56.04%20PM.png?dl=1"/>
+    <p>They are both very good at what they do<p>
 </div>
 
 We can extend this comparison to Lebron's weaknesses too. From a type-oriented perspective, Dragonite's weakness is disproportionately ice-type pokemon. Lebron's struggles against the Mammoswine-like Boris Diaw, in addition to his failure to dominate against J.J. Barea  (Weavile's 1st cousin twice removed) demonstrate how apt this particular comparison is. If one dares to propose Durant as an IRL manifestation of Rayquaza, which I do, or Giannis as a burgeoning Garchomp (though comparitively Giannis is much better off defensively), the Dragon-type defensive vulnerability checks out as well.
