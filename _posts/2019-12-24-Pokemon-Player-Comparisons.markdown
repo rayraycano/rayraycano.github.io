@@ -60,7 +60,7 @@ a less-than sensational game play (how does Pikachu defeat Brock's Onyx with Ele
 * **Kevin Druant as Rayquaza**: Rayquaza reaches of a height of [23 feet](https://bulbapedia.bulbagarden.net/wiki/Rayquaza_(Pok%C3%A9mon)), and so does Durant's release point when he floats through the lane on his jump shots
 * **Klay Thomspon as Kyogre**: Fine, we'll lean into the "Splash" element here. Sturdy, and unfairly high Special Attack and Special Defense. Kyogre is the pinnacle of 3 and D you heard it here first.
 * **James Hardeen could also be [Slaking](https://bulbapedia.bulbagarden.net/wiki/Slaking_(Pok%C3%A9mon)#Base_stats)**: very high attack and HP, with solid physical D (reflected in Harden's premier post-defense), but takes around 25% of the plays off. They even have a beard to match. "During most of the day, Slaking lolls around and sleeps. It is considered the laziest Pokémon, but even when it is lounging it's saving energy". Slaking might be a better comp but I'm too lazy to rewrite this.
-* **Trae Young as Pichu**: Meager defense of 15, and basically Steph Curry lite.
+* **Trae Young as Pichu**: Pichu has a meager defense of 15, and Trae Young the defense of an elite 15 year old. He's basically Steph Curry lite.
 * **Ben Simmons as Eevee**: Could evolve into a lot of things. A lot of cool things. Currently useless
 
 If you have more ideas, leave a comment!
