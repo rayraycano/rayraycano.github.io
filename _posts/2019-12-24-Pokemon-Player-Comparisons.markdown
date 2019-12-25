@@ -39,8 +39,8 @@ Harden is a tank. More specifically, he's a Miltank. Anyone who played G/S/C rem
     <p>Please enjoy this very professional photoshop</p>
 </div>
 
-## Steph Curry is Pikachu*
-**Before you bring up the elemental
+## Steph Curry is Pikachu
+*Before you bring up the elemental
 mismatch of "splash brother" to Pikachu's electric typing, I would like to remind you that Pikachu can learn surf.*
 
 Elite quickness. Media starwalt (whether deserving or not). Defensive liability.
