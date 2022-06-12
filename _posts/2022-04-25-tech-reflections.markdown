@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Reflections on Engineering and Trust"
+title: "Engineering and Trust"
 date: 2022-06-10 0:1:00 -0600
 categories:
 - tech
 ---
 
-# Reflections on Engineering and Trust
+# Engineering and Trust
 After 4+ years of working as a Software Engineer at a tech company, there's been quite a lot to takeaway. But I think the biggest thing I've learned is that understanding _trust_ is key to being effective and efficient in a team setting. Here are some thoughts I've put together on trust. 
 
 * **It's all about trust.** Trust enables speed. Trust enables risk. There are many books written on how to write software architecture, how to write tests, how to build products, etc. After reading these, and improving the way I work, I found that they all helped me build trust with other engineers and my reporting chain. The trust I built opened the door to larger scope opportunities. .
