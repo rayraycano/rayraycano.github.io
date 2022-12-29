@@ -7,11 +7,13 @@ categories:
 ---
 
 # 2022-12-29 NBA team tier 
-
+<!-- 
 <div style="text-align:center">
     <img src="https://www.dropbox.com/s/v9l8890929bry9m/Screen%20Shot%202022-12-29%20at%2010.24.04%20AM.png?dl=1"/>
 </div>
-
+ -->
+ ![Tier image](/rayraycano.github.io/_posts/midseason-tiers-2022.png)
+ 
 Pls enjoy the above graphic. Below I've provided a separate tiering with a lot of words that are hopefully enjoyable. Feel free to jump to teams of interest, but disclaimer that I did not write for every team.
 ## Hilarious Tier
 
